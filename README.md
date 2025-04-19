@@ -91,8 +91,3 @@ Bayesian analysis revealed that income and education level are significant predi
 
 ---
 
-- Applied Bayesian logistic regression using Stan to model subscription probability from real-world marketing data.
-- Designed probabilistic model with prior knowledge to assess influence of demographics and education on customer decisions.
-- Visualized posterior distributions and interpreted credible intervals for business decision support.
-- Communicated findings through a detailed report with visual insights and actionable conclusions.
-
