@@ -53,6 +53,7 @@ model {
 Below are the posterior distributions of each parameter, illustrating the uncertainty around each estimate:
 
 - Alpha
+  
 ![alpha](Visualization/alpha.png)
 
 - Age
